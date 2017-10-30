@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoundedLocalService</string>
+    <string name="first_method">first method</string>
+    <string name="second_method">second method</string>
+    <string name="third_method">Third Button</string>
+    <string name="async_operation_result">Async operation result is: %d</string>
+</resources>
